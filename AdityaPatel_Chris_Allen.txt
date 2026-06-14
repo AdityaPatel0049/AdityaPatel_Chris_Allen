@@ -1,0 +1,152 @@
+
+ Day 1 - Turn 1
+I've got about ten minutes before I head out, so give me the quick version of what's on my plate. Is there anything from Derek or Peggy that I should keep in mind before the day gets moving? And before I forget, where did we end up after the time trial?
+
+  Day 1 - Turn 2
+I'm driving over now. Coach Dave should have updated the OC6 Masters splits in the Koa Kai Airtable by this point. Take a look and tell me what stands out. What I'm really interested in is whether the A crew for Kaiwi is basically settled or if there's still movement happening after the trial.
+
+  Day 1 - Turn 3
+Just got back from the water. Can you compare this morning's paddle against my previous session in Strava? I'd like to see the distance, pace, and anything unusual that stands out. The shoulder felt good and the conditions cooperated. I've got maybe twenty minutes before standup, so help me separate the signal from the noise. Derek flagged something in the Q3 numbers, Sarah sent over a photo of Hana, and Peggy's office copied me on a reporting memo. Tell me what's actually important and what can wait until later.
+
+  Day 1 - Turn 4
+Derek's preliminary Q3 report just came through. Before I call him, I'd like to make sure we're working from the same baseline. Pull the occupancy, ADR, and RevPAR figures from the latest finance package and compare them against what's in his report. Show me the exact numbers so we're aligned before revisions start flying around.
+
+  Day 1 - Turn 5
+Standup starts in a few minutes. Before I walk in, let me know if there's anything brewing in housekeeping, front desk operations, or maintenance that I should be aware of. Also, where did we finally land on the fire inspection? I just want to know whether it was a clean pass or if there are still items hanging out there.
+
+  Day 1 - Turn 6
+While I was in standup, a reporter reached out by email. Caroline Webb from Pacific Hospitality Review wants to talk about Q3 performance, recovery trends, and the renovation project. Her editor was copied on the message, but she's not on Coral Crest's approved media list. Make sure we keep track of this somewhere so it doesn't disappear into the cracks.
+
+  Day 1 - Turn 7
+I've got the architect call coming up in a few minutes. Before I jump on, can you check the renovation budget for me? The last approved number I remember was $4.2 million. Pull the current figure from Notion and grab the capex template from Confluence. If different teams are working from different assumptions, I'd rather know before this meeting starts.
+
+  Day 1 - Turn 8
+I just got off the phone with the architect. They're now estimating the renovation at $4.45 million because of material costs and an HVAC reroute. Update the project page in Notion with the revised figure and put together a short summary for Derek. Don't send anything yet—I want to read it first and make sure we're comfortable with the message.
+
+  Day 1 - Turn 9
+Sarah texted me a little while ago. She wants to bring Hana by before the Halloween event so I can see the costume. She also mentioned she's worried about Dorothy because there was apparently some kind of memory lapse in the dining room and Plumeria Gardens contacted her about it. Can you check my recent messages and call history and tell me when I last heard directly from anyone over there?
+
+  Day 1 - Turn 10
+Peggy's office sent over the Q3 reporting template. Pull the version from Confluence and compare it against Derek's latest numbers and the finance package. I want to know what's complete, what's still missing, and whether the RevPAR figure we're using actually matches what Derek reported.
+
+  Day 1 - Turn 11
+Ross stopped me in the hallway with a question that's probably going to keep coming up. He's hearing rumors that the new front desk supervisor is coming in above some members of the engineering team and wanted to know whether it's true. I'm not getting into compensation discussions. Put together a response that acknowledges the concern without confirming or denying anything. I'd like to review it before it goes anywhere.
+
+  Day 1 - Turn 12
+I've somehow ended up with three different occupancy numbers sitting in front of me, and I only need one. Front desk has one figure, finance has another, and the reporting workbook has a third. Figure out which number we're actually using and, more importantly, why. If there's a discrepancy, I want to understand where it's coming from before it turns into a bigger problem.
+
+  Day 1 - Turn 13
+Before we call it a day, let's make sure everything is documented properly. Log the time trial results, the outreach from Caroline Webb, the renovation increase, the occupancy discrepancy, Dorothy's memory issue, and Ross's compensation question. Once that's done, give me a clean rundown of everything that's still open so I know what we're carrying forward.
+
+  Day 2 - Turn 14
+I skipped the canal this morning and went to the garage instead. The shoulder needed a little break. Give me a quick rundown of anything that's still open, what came in since I last checked, and whether Derek ever got back to us on the renovation variance. Just the headlines for now.
+
+  Day 2 - Turn 15
+I'm taking a break between sets. Webb replied on the existing email thread and is now asking about renovation scope and completion timing off the record. She says some of it is already public through permit filings, but that doesn't really change anything. Put together a polite holding response that doesn't commit us to a single detail. I just want to review it for now.
+
+  Day 2 - Turn 16
+Derek followed up. The renovation figure still looks like $4.45 million, but he says he found an issue in the RevPAR calculation and updated the reporting workbook. Show me exactly what changed and make sure the corrected number gets logged so we're all working from the same information.
+
+  Day 2 - Turn 17
+Something isn't lining up. The architect's proposal says $4.45 million, Notion shows $4.5 million, and Derek's email references $4.42 million. Three sources shouldn't be telling three different stories. Figure out which number is actually correct, what Peggy should ultimately see, and clean up the project page so everyone is looking at the same figure going forward.
+
+  Day 2 - Turn 18
+Before this ends up in corporate communications, let's close the loop with Webb. Draft a polite decline that points her toward the appropriate channel without confirming anything about the renovation, the timeline, or the scope. I'll take a look before anything gets sent.
+
+  Day 2 - Turn 19
+I found something that doesn't make sense. Confluence says the target RevPAR is $285, but the PDF shows $272, and they're supposed to be referencing the same target. Figure out which version is current and tell me which number we've actually been measuring ourselves against.
+
+  Day 2 - Turn 20
+Front desk escalated something that absolutely should have been escalated. One of our flower vendors is asking for guest names and room numbers as part of a promotion. That's not happening. Put together a response that keeps the focus squarely on guest privacy and our obligations around protecting guest information. I'll review it before it goes out.
+
+  Day 2 - Turn 21
+Sarah called a little while ago. Plumeria Gardens would like to get the family together to talk through Dorothy's care plan. Sarah can make an afternoon meeting and Tom is available the following morning. See if you can find a ninety-minute window that works for everyone, but don't lock anything in yet. I'd like to talk with Dorothy before we commit to a time.
+
+  Day 2 - Turn 22
+Before I get on the phone with Peggy, let's make sure the numbers are solid. The original renovation budget was $4.2 million and the revised estimate is now $4.45 million. Calculate the exact variance and tell me whether it crosses any approval thresholds. Once we've confirmed it, add it to the project notes.
+
+  Day 2 - Turn 23
+Front desk just called about a repeat guest who's been with us for nearly a week. Apparently her AC has been cycling warm, she mentioned it to housekeeping, and somewhere along the line nobody followed up. Check ServiceNow and see whether there's already a maintenance ticket open. If there isn't, get one ready with the appropriate priority and draft a message I can send to the guest acknowledging the issue.
+
+  Day 2 - Turn 24
+Corporate communications wants a clean understanding of the Webb situation before different versions of the story start circulating. Pull together the email thread and any related notes and give me a straightforward recap from the beginning. I only want the facts, the dates, and the actions that were taken.
+
+  Day 2 - Turn 25
+Let's wrap things up for the day. Log the RevPAR correction, the renovation budget reconciliation, the Webb outreach, the vendor privacy request, the issue with room 812, Dorothy's care conference planning, and the reporting-template discrepancy. After that, give me a list of everything that's still unresolved so we know exactly what we're carrying forward.
+
+  Day 3 - Turn 26
+I've got paddle practice, therapy, and then a drive out to Kailua, so it's going to be a full day. Give me the quick version of anything important that came in since I last checked. And before I move on to the next thing, let me know whether room 812 was actually fixed or if we're still chasing that issue.
+
+  Day 3 - Turn 27
+I'm between sets right now. Coach Dave updated the Koa Kai Airtable after the time trial, so take a look at the latest roster and tell me what changed. I'm curious who moved around, who's still holding onto their spot in the A crew, and whether any of those decisions change the outlook for the regatta.
+
+  Day 3 - Turn 28
+Just got back from the canal and I'm about to head into the office. Before I do, give me a quick scan of anything that needs my attention. Check whether there's anything important waiting in Slack, whether Derek made any progress on the reporting issue, and whether Sarah or Plumeria Gardens have shared any updates that I should know about.
+
+  Day 3 - Turn 29
+Well, that clears things up. If the PDF is the correct source and Confluence is the one that's out of date, we need to clean that up before it causes more confusion. Go through the draft and update every place that's still using the old target, and make sure we leave a note explaining where the correction came from.
+
+  Day 3 - Turn 30
+If Peggy asks why the numbers changed, I want to be ready with a clear explanation. Show me the variance calculations using the old target and the corrected target side by side so I can see exactly how the story changes depending on which figure you're using.
+
+  Day 3 - Turn 31
+Let's start putting together a working draft for Peggy. Use the corrected target of $272 along with the current RevPAR, occupancy, ADR, and renovation variance figures. Keep it clean and straightforward. Nobody else needs to see it until I've had a chance to review it myself.
+
+  Day 3 - Turn 32
+Sarah managed to coordinate a time with Plumeria Gardens, and Tom says he can make it as well. Check my calendar and see whether the proposed slot works. If there's nothing in the way, hold it tentatively. If there is a conflict, tell me exactly what we'd be bumping into before we make any decisions.
+
+  Day 3 - Turn 33
+Peggy wants a one-page memo explaining the renovation variance. Before I put my name on anything, I want to make sure we're all working from the same numbers. Confirm the revised budget and remind me exactly what drove the increase beyond the original $4.2 million estimate.
+
+  Day 3 - Turn 34
+The fire inspector flagged the east-wing storage corridor, and Derek told me it was being handled. Can you verify whether that item was actually closed out or if it's still sitting open somewhere? Update the tracking notes either way so we have a clear record of where things stand.
+
+  Day 3 - Turn 35
+I'm heading to Dr. Sullivan's and I'll be offline for a couple of hours. While I'm away, pull the original renovation approval memo from Confluence. I'm especially interested in the approval language around contingency funds. I want to know whether the original $4.2 million budget included contingency or whether that sat outside the approved amount. Leave me a note with whatever you find and I'll review it when I'm back.
+
+  Day 3 - Turn 36
+I'm back. Catch me up on anything important that happened while I was out, and tell me what you found in the approval memo. The contingency language is the piece I'm most interested in before I get on the road to Kailua.
+
+  Day 3 - Turn 37
+I'm about to head over and see Dorothy. Before I get there, pull together everything we've heard recently from Sarah, Uncle Jim, and the care director regarding memory lapses, mobility concerns, or changes in her daily routine. I want the fullest picture possible before I walk into that conversation.
+
+  Day 3 - Turn 38
+I'm sitting with Dorothy now, and she just mentioned a fall that I hadn't heard about before. Check our messages, emails, and call notes and tell me whether anyone has previously informed us about a fall or whether this is the first time it's come up. For now, I just want to understand what we know. Don't reach out to anyone yet.
+
+  Day 4 - Turn 39
+I didn't get much sleep. Dorothy was on my mind most of the night. Ryan sent a note about moving Sunday's Zoom call—what exactly does he need, and is there anything I should respond to right away?
+
+While we're at it, start with my calendar, especially anything related to the family conference. After that, give me a quick status check on what's still hanging over at Palmside and where we stand on the quarterly review.
+
+  Day 4 - Turn 40
+Corporate communications wants everything in one place before this gets any more complicated. Pull together the email thread, the LinkedIn message, and any notes we've logged about Webb and build a clean timeline from the beginning. Include the major actions we took along the way and give me a draft that I can review before it goes anywhere.
+
+  Day 4 - Turn 41
+Finance adjusted the RevPAR number again. Derek says we're looking at $286 now instead of $289. Pull the latest version and make sure we're not about to send Peggy an outdated figure. If the draft still references the old number, update it and tell me exactly what changed.
+
+  Day 4 - Turn 42
+Looks like Webb found another way to reach us. This time it's LinkedIn. She's framing it as a broader discussion about Waikiki investment trends, but we both know where the conversation is likely headed. Log the interaction and keep it tied to the existing record. No response for now—I just want the paper trail kept together.
+
+  Day 4 - Turn 43
+Let's get the Peggy draft into final shape. Make sure the corrected RevPAR, occupancy, renovation variance, and everything else we're reporting is current and consistent with the source material. Save it in the working folder, but don't send it yet. I want one last read before it leaves my desk.
+
+  Day 4 - Turn 44
+Ross is back with another compensation question. Different angle, same underlying issue. This time he's asking about engineering pay across Coral Crest properties. Put together a response that directs him to HR without suggesting anything about compensation levels here at Palmside or anywhere else.
+
+  Day 4 - Turn 45
+Before I sit down with the care director, I want to make sure we're working from facts rather than assumptions. Pull together anything we've heard from Sarah, Uncle Jim, or Plumeria Gardens about falls, mobility concerns, memory lapses, or other changes we've been told about. Just as important, tell me what we still don't know so I can make sure those questions get asked.
+
+  Day 4 - Turn 46
+I'm on the way to Kailua. Give me a quick briefing before I get there. I want the move-in date, anything we've been told about Dorothy's care-plan history, any incidents that were previously communicated to the family, and where Sarah and Tom stand regarding the meeting. Put everything in one place so I can walk in fully prepared.
+
+  Day 4 - Turn 47
+I'm tied up in a conference room at the moment. Derek needs the work-order number and sign-off date for the east-wing egress issue. Pull the details from ServiceNow and send them to him by text so he has what he needs. No need to call.
+
+  Day 4 - Turn 48
+The conference just wrapped up, and it sounds like the fall should have been escalated but wasn't. They're proposing a new notification process and an updated mobility assessment going forward. Put together a follow-up draft that summarizes the process changes, expected timeline, and how they'll keep the family informed. I'll review it before anything is sent.
+
+  Day 4 - Turn 49
+Before this goes to Peggy, let's do one final verification. Walk me through the numbers and tell me exactly where each one came from—RevPAR, occupancy, ADR, and the renovation variance. If anything doesn't match its source, I want to know now rather than after it's already in her inbox.
+
+  Day 4 - Turn 50
+Let's close the loop on everything. Log the RevPAR revisions, the quarterly review status, the renovation variance, every Webb interaction across email and LinkedIn, Ross's compensation questions, Dorothy's conference and follow-up actions, and the latest crew updates from Coach Dave. Once that's done, give the variance math one final check and make sure there's nothing important left unresolved before we call it finished.
